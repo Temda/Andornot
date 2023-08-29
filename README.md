@@ -1,3 +1,7 @@
+# Andornot Project
+
+![Screenshot 2023-08-29 235905](https://github.com/Temda/Andornot/assets/39237652/89e00839-4e48-4431-92a5-0d546730de0c)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
